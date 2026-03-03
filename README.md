@@ -8,3 +8,5 @@ See `App.tsx` for relevant example.
 pnpm i
 pnpm run dev
 ```
+
+It might be needed to use a portal in some cases, see [https://github.com/ianstormtaylor/slate/blob/main/site/examples/ts/iframe.tsx](https://github.com/ianstormtaylor/slate/blob/main/site/examples/ts/iframe.tsx).
